@@ -7,12 +7,13 @@
     "dev": "nodemon index.ts"
   },
   "dependencies": {
-    "@prisma/client": "4.4.0",
+    "@prisma/client": "4.5.0",
     "bcrypt": "^5.1.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "dayjs": "^1.11.5",
     "express": "^4.18.2",
+    "handlebars": "^4.7.7",
     "lodash": "^4.17.21",
     "nodemailer": "^6.8.0",
     "ts-node": "^10.9.1",
@@ -23,6 +24,6 @@
     "@types/lodash": "^4.14.186",
     "@types/node": "^18.11.0",
     "nodemon": "^2.0.20",
-    "prisma": "^4.4.0"
+    "prisma": "4.5.0"
   }
 }
